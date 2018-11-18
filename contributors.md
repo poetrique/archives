@@ -1,5 +1,29 @@
-##### Everyone who has every contributed to the platform
-##### _in no particular ranking of importance_
+<head>
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="./favicon.ico">
+  <!-- Emojis -->
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">   
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-129370470-1');
+  </script>
+</head>
+
+<!-- Main Links -->
+#### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) | [Contributors](./contributors.md)
+
+- - -
+
+<h5>
+  Everyone who has ever contributed to the platform
+  <br />
+  <em>in no particular ranking of importance</em>
+</h5>
 
 > #### Mambo
 [=POETRIQUE=](http://instagram.com/poetrique)  
