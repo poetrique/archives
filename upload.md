@@ -1,4 +1,6 @@
 <head>
+  <!-- Redirect to @POETRIQUE Submissions -->
+  <meta http-equiv="refresh" content="0; url=http://bit.ly/PoetriqueSubmissions" />
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
   <!-- Emojis -->
