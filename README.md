@@ -22,3 +22,9 @@
 #### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md)
 
 - - -
+
+
+## see what i saw
+[=POETRIQUE=](https://instagram.com/poetrique)  
+![wonexo_4](http://res.cloudinary.com/poetrique/image/upload/v1536065967/htmlpoems/wonexo/wonexo_4.png)   
+[&copy; Wonexo](http://twitter.com/wonexo) ::: Nov 18, 2018
