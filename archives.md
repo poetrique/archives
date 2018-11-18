@@ -18,7 +18,7 @@
   </script> 
 </head>
 
-#### [Home](./README.md) | [Archives](./archives.md) | [Music](./music.md) | [Art](./art.md)  
+#### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) 
 
 - - -
 
