@@ -3,10 +3,6 @@
   <link rel="shortcut icon" href="./favicon.ico">
   <!-- Emojis -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
-  <!-- Author -->
-  <meta name="author" content="Usheninte D.">   
-  <!-- Description -->
-  <meta name="description" content="My first poetry project. I used Pipe & PIPE ThePoet, as pen names for both Music and Poetry, for some time. Yeah, and my friends call me Ninté.">      
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
   <script>
@@ -22,8 +18,6 @@
 #### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) 
 
 - - -
-
-> My first poetry project. I used **Pipe** & **PIPE ThePoet**, as pen names for both _Music_ and _Poetry_, for some time. Yeah, and my friends call me **Ninté**.
 
 [visit POETRIQUE on Instagram](http://instagram.com/poetrique)  
 
@@ -54,7 +48,7 @@ we are the children
 of tomorrow  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-23-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-23-018  
 
 - - -
 
@@ -62,7 +56,7 @@ of tomorrow
 
 ![htmlPoems_4K](https://res.cloudinary.com/poetrique/image/upload/v1537597982/htmlpoems/htmlPoems_4K.png)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-22-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-22-018  
 
 - - -
 
@@ -79,7 +73,7 @@ someone, bold
 wise enough to love truly  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-22-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-22-018  
 
 - - -
 
@@ -99,7 +93,7 @@ a heart to nurse my mind
 and comfort  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-20-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-20-018  
 
 - - -
 
@@ -118,7 +112,7 @@ I only want warm love
 you said, I said  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-20-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-20-018  
 
 - - -
 
@@ -143,7 +137,7 @@ than the tip of the sun
 in the sky  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-19-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-19-018  
 
 - - -
 
@@ -160,7 +154,7 @@ I take what's mine
 I hustle & break hearts  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-18-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-18-018  
 
 - - -
 
@@ -184,7 +178,7 @@ night sky
 i am rare and bold  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-17-018
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-17-018
 
 - - -
 
@@ -208,7 +202,7 @@ i will master this sword
 before lifting any other  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-14-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-14-018  
 
 ## To My Crush
 ![pj_1](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_1.jpg)  
@@ -234,7 +228,7 @@ much more
 but not today  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-12-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-12-018  
 
 #### Non
 
@@ -249,7 +243,7 @@ not for joy alone
 but for the war ahead  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-12-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-12-018  
 
 #### Her Words
 
@@ -264,7 +258,7 @@ wild, yet sweet still
 it could build or kill  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: SEP-12-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: SEP-12-018  
 
 - - -
 
@@ -307,7 +301,7 @@ I am a coder, my lovers are alien
 CTRL+C : that is all  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: AUG-22-018 
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: AUG-22-018 
 
 - - -
 
@@ -346,7 +340,7 @@ i can still be different
 while breathing clean air  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté](http://twitter.com/Usheninte) ::: AUG-16-018  
+[&copy; Ninté Null](http://twitter.com/Usheninte) ::: AUG-16-018  
 
 - - -
 
