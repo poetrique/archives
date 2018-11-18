@@ -25,6 +25,10 @@
   <em>in no particular ranking of importance</em>
 </h5>
 
+> #### AliyuN
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; AliyuN](#)  
+
 > #### Mambo
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i>

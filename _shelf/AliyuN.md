@@ -26,7 +26,3 @@
 ![aN07](https://res.cloudinary.com/poetrique/image/upload/v1538576116/htmlpoems/AliyuN/aN07.jpg)
 
 - - -
-
-![aN08](https://res.cloudinary.com/poetrique/image/upload/v1538576119/htmlpoems/AliyuN/aN08.jpg)
-
-- - -
