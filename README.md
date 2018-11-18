@@ -48,3 +48,9 @@
 ![wonexo_4](http://res.cloudinary.com/poetrique/image/upload/v1536065967/htmlpoems/wonexo/wonexo_4.png)   
 [=POETRIQUE=](https://instagram.com/poetrique)  
 [&copy; Wonexo](http://twitter.com/wonexo) ::: Nov, 2018
+
+- - -
+
+![aN07](https://res.cloudinary.com/poetrique/image/upload/v1538576116/htmlpoems/AliyuN/aN07.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
