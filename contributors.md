@@ -70,4 +70,4 @@
 ##### Note 
 
 Please note that the contributors on this platform each retain their individual and respective coyprights.  
-We simply publish, which means we seek to discover creative talent in and from **Africa**, and present them to the world.
+We simply publish. This means we seek to discover creative talent in and from **Africa**, and present them to the world.
