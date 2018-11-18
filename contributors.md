@@ -1,9 +1,5 @@
-# Everyone who has every contributed to the platform
+##### Everyone who has every contributed to the platform
 ##### _in no particular ranking of importance_
-
-> ## Usheninte
-[=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté Null](#) 
 
 > ## Mambo
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -36,3 +32,7 @@
 > ## Paul Joe
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; PeeJay](https://twitter.com/peejay41)
+
+> ## Usheninte
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) 

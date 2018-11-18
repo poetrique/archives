@@ -19,7 +19,7 @@
 </head>
 
 <!-- Main Links -->
-#### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md)
+#### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) | [Contributors](./contributors.md)
 
 - - -
 
