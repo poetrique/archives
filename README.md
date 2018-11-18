@@ -22,6 +22,12 @@
 #### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) | [Contributors](./contributors.md)
 
 - - -
+## choice
+![wonexo_5](http://res.cloudinary.com/poetrique/image/upload/v1536065963/htmlpoems/wonexo/wonexo_5.png)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
+
+- - -
 
 ![aN05](https://res.cloudinary.com/poetrique/image/upload/v1538576116/htmlpoems/AliyuN/aN05.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -45,7 +51,7 @@
 
 ![z06](https://res.cloudinary.com/poetrique/image/upload/v1537473493/htmlpoems/mambo/z06.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i>
 
 - - -
 
