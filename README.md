@@ -25,7 +25,7 @@
 
 ![z05](https://res.cloudinary.com/poetrique/image/upload/v1537473495/htmlpoems/mambo/z05.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i>
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> :: Nov, 2018
 
 - - -
 
@@ -64,7 +64,7 @@
 
 ![z06](https://res.cloudinary.com/poetrique/image/upload/v1537473493/htmlpoems/mambo/z06.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i>
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> :: Nov, 2018
 
 - - -
 
