@@ -69,4 +69,5 @@
 
 ##### Note 
 
-Please note that the contributors on this platform each retain their individual and respective coyprights. We are simply publishers, who seek to discover creative talent in and from **Africa**, and present them to the world.
+Please note that the contributors on this platform each retain their individual and respective coyprights.  
+We simply publish, which means we seek to discover creative talent in and from **Africa**, and present them to the world.
