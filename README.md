@@ -35,6 +35,10 @@
 
 - - -
 
+![z01](https://res.cloudinary.com/poetrique/image/upload/v1537473495/htmlpoems/mambo/z01.jpg)
+
+- - -
+
 ## Hey Girlfriend {2}
 
 ![pj_4](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_4.jpg)  
