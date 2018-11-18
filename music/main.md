@@ -16,7 +16,7 @@
 </head>
 
 <!-- Main Links -->
-#### [Home](../README.md) | [Blog](../blog/main.md) | [Archives](../archives.md) | [Music](./main.md) | [Art](../art/main.md) | [Contributors](../contributors.md)
+#### [Home](../README.md) | [Blog](../blog/main.md) | [Archives](../archives.md) | [Music](./main.md) | [Art](../art/main.md) | [Contributors](../contributors.md) | [Upload](../upload.md)
 
 - - -
 

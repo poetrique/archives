@@ -16,4 +16,11 @@
 
     gtag('config', 'UA-129370470-1');
   </script>
-</meta>
+</head>
+
+<!-- Main Links -->
+#### [Home](./README.md) | [Blog](./blog/main.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) | [Contributors](./contributors.md) | [Upload](./upload.md)
+
+- - -
+
+# Loading...
