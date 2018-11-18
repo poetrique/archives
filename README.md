@@ -1,6 +1,12 @@
 <head>
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
+  <!-- Emojis -->
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+  <!-- Author -->
+  <meta name="author" content="Usheninte Dangana">   
+  <!-- Description -->
+  <meta name="description" content="Tech Meets Art. Poetrique is a creative arts brand, that focuses on creating unique user experiences and interactions for the web. We work with world-class technology to produce amazing results.">    
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
   <script>
