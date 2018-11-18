@@ -23,6 +23,20 @@
 
 - - -
 
+![aN01](https://res.cloudinary.com/poetrique/image/upload/v1538576115/htmlpoems/AliyuN/aN01.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
+
+- - -
+
+## Hey Girlfriend {1}
+
+![pj_3](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_3.jpg)  
+[&copy; PeeJay](https://twitter.com/peejay41) :: Nov, 2018
+
+- - - 
+
+
 ![z02](https://res.cloudinary.com/poetrique/image/upload/v1537473496/htmlpoems/mambo/z02.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> :: Nov, 2018
@@ -35,7 +49,15 @@
 
 - - -
 
-![z01](https://res.cloudinary.com/poetrique/image/upload/v1537473495/htmlpoems/mambo/z01.jpg)
+![z01](https://res.cloudinary.com/poetrique/image/upload/v1537473495/htmlpoems/mambo/z01.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> :: Nov, 2018
+
+- - -
+
+![aN02](https://res.cloudinary.com/poetrique/image/upload/v1538576117/htmlpoems/AliyuN/aN02.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
 
 - - -
 
@@ -43,12 +65,6 @@
 
 ![pj_4](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_4.jpg)  
 [&copy; PeeJay](https://twitter.com/peejay41) :: Nov, 2018
-
-- - -
-
-![aN02](https://res.cloudinary.com/poetrique/image/upload/v1538576117/htmlpoems/AliyuN/aN02.jpg)  
-[=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
 
 - - -
 
