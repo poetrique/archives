@@ -7,6 +7,8 @@
     <meta name="description" content="My first poetry project. I used Pipe & PIPE ThePoet, as pen names for both Music and Poetry, for some time. Yeah, and my friends call me Ninté.">   
 </head>
 
+#### [Home](./README.md) | [Archives](./archives.md) | [Music](./music.md) | [Art](./art.md)  
+
 > My first poetry project. I used **Pipe** & **PIPE ThePoet**, as pen names for both _Music_ and _Poetry_, for some time. Yeah, and my friends call me **Ninté**.
 
 [visit POETRIQUE on Instagram](http://instagram.com/poetrique)  
