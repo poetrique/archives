@@ -21,6 +21,31 @@
 <!-- Main Links -->
 #### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) | [Contributors](./contributors.md)
 
+<!-- Poetry -->
+- - -
+
+#### one-eyed
+
+you were the moon  
+and I, the sun  
+one-eyed, broken  
+and full of fear  
+
+you took my mind  
+and gently kissed  
+away all pain,  
+every ugly care
+
+and for that  
+I praise you  
+where the gods seat
+
+in the sky,  
+the kingdom of air
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Nov 2018
+
 - - -
 
 ![aN01](https://res.cloudinary.com/poetrique/image/upload/v1538576115/htmlpoems/AliyuN/aN01.jpg)  
@@ -29,7 +54,7 @@
 
 - - -
 
-## Hey Girlfriend {1}
+#### Hey Girlfriend {1}
 
 ![pj_3](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_3.jpg)  
 [&copy; PeeJay](https://twitter.com/peejay41) :: Nov 2018
@@ -61,7 +86,7 @@
 
 - - -
 
-## Hey Girlfriend {2}
+#### Hey Girlfriend {2}
 
 ![pj_4](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_4.jpg)  
 [&copy; PeeJay](https://twitter.com/peejay41) :: Nov 2018
@@ -80,7 +105,7 @@
 
 - - -
 
-## choice
+#### choice
 
 ![wonexo_5](http://res.cloudinary.com/poetrique/image/upload/v1536065963/htmlpoems/wonexo/wonexo_5.png)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -94,7 +119,7 @@
 
 - - -
 
-## Untitled
+#### Untitled
 
 ![peejay_5](https://res.cloudinary.com/poetrique/image/upload/v1537986409/htmlpoems/paul_joe/peejay5.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -120,7 +145,7 @@
 
 - - -
 
-## see what i saw
+#### see what i saw
 
 ![wonexo_4](http://res.cloudinary.com/poetrique/image/upload/v1536065967/htmlpoems/wonexo/wonexo_4.png)   
 [=POETRIQUE=](https://instagram.com/poetrique)  
