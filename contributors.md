@@ -64,3 +64,9 @@
 > #### Usheninte
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; Ninté Null](#) 
+
+- - -
+
+##### Note 
+
+Please note that the contributors on this platform each retain their individual and respective coyprights. We are simply publishers, who seek to discover creative talent in and from **Africa**, and present them to the world.
