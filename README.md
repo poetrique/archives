@@ -24,7 +24,7 @@
 <!-- Poetry -->
 - - -
 
-#### one-eyed
+### one-eyed
 
 you were the moon  
 and I, the sun  
@@ -54,7 +54,7 @@ the kingdom of air
 
 - - -
 
-#### Hey Girlfriend {1}
+### Hey Girlfriend {1}
 
 ![pj_3](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_3.jpg)  
 [&copy; PeeJay](https://twitter.com/peejay41) :: Nov 2018
@@ -86,7 +86,7 @@ the kingdom of air
 
 - - -
 
-#### Hey Girlfriend {2}
+### Hey Girlfriend {2}
 
 ![pj_4](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_4.jpg)  
 [&copy; PeeJay](https://twitter.com/peejay41) :: Nov 2018
@@ -105,7 +105,7 @@ the kingdom of air
 
 - - -
 
-#### choice
+### choice
 
 ![wonexo_5](http://res.cloudinary.com/poetrique/image/upload/v1536065963/htmlpoems/wonexo/wonexo_5.png)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -119,7 +119,7 @@ the kingdom of air
 
 - - -
 
-#### Untitled
+### Untitled
 
 ![peejay_5](https://res.cloudinary.com/poetrique/image/upload/v1537986409/htmlpoems/paul_joe/peejay5.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -145,7 +145,7 @@ the kingdom of air
 
 - - -
 
-#### see what i saw
+### see what i saw
 
 ![wonexo_4](http://res.cloudinary.com/poetrique/image/upload/v1536065967/htmlpoems/wonexo/wonexo_4.png)   
 [=POETRIQUE=](https://instagram.com/poetrique)  
