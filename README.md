@@ -23,6 +23,12 @@
 
 - - -
 
+![aN03](https://res.cloudinary.com/poetrique/image/upload/v1538576117/htmlpoems/AliyuN/aN03.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
+
+- - -
+
 ## Hey Girlfriend {2}
 
 ![pj_4](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_4.jpg)  
