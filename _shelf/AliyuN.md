@@ -10,7 +10,3 @@
 ![aN03](https://res.cloudinary.com/poetrique/image/upload/v1538576117/htmlpoems/AliyuN/aN03.jpg)
 
 - - -
-
-![aN04](https://res.cloudinary.com/poetrique/image/upload/v1538576119/htmlpoems/AliyuN/aN04.jpg)
-
-- - -

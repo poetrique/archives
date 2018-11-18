@@ -22,6 +22,13 @@
 #### [Home](./README.md) | [Archives](./archives.md) | [Music](./music/main.md) | [Art](./art/main.md) | [Contributors](./contributors.md)
 
 - - -
+
+![aN04](https://res.cloudinary.com/poetrique/image/upload/v1538576119/htmlpoems/AliyuN/aN04.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
+
+- - -
+
 ## choice
 ![wonexo_5](http://res.cloudinary.com/poetrique/image/upload/v1536065963/htmlpoems/wonexo/wonexo_5.png)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
