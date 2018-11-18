@@ -19,4 +19,4 @@
 
 > This includes **Photography**, and will feature the most ambitious projects from _African_ artists all over the world
 
-# Coming Soon
+#### Coming Soon
