@@ -1,19 +1,21 @@
 <head>
-    <!-- Emojis -->
-    <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
-    <!-- Author -->
-    <meta name="author" content="Usheninte D.">   
-    <!-- Description -->
-    <meta name="description" content="My first poetry project. I used Pipe & PIPE ThePoet, as pen names for both Music and Poetry, for some time. Yeah, and my friends call me Ninté.">      
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="./favicon.ico">
+  <!-- Emojis -->
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+  <!-- Author -->
+  <meta name="author" content="Usheninte D.">   
+  <!-- Description -->
+  <meta name="description" content="My first poetry project. I used Pipe & PIPE ThePoet, as pen names for both Music and Poetry, for some time. Yeah, and my friends call me Ninté.">      
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-      gtag('config', 'UA-129370470-1');
-    </script> 
+    gtag('config', 'UA-129370470-1');
+  </script> 
 </head>
 
 #### [Home](./README.md) | [Archives](./archives.md) | [Music](./music.md) | [Art](./art.md)  
