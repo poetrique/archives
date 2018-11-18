@@ -3,6 +3,3 @@
 
 - - -
 
-![aN02](https://res.cloudinary.com/poetrique/image/upload/v1538576117/htmlpoems/AliyuN/aN02.jpg)
-
-- - -

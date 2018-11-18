@@ -23,6 +23,12 @@
 
 - - -
 
+![z02](https://res.cloudinary.com/poetrique/image/upload/v1537473496/htmlpoems/mambo/z02.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> :: Nov, 2018
+
+- - -
+
 ![aN03](https://res.cloudinary.com/poetrique/image/upload/v1538576117/htmlpoems/AliyuN/aN03.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
