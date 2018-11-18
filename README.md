@@ -25,7 +25,7 @@
 
 ![aN08](https://res.cloudinary.com/poetrique/image/upload/v1538576119/htmlpoems/AliyuN/aN08.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; AliyuN](#) :: Nov, 2018
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov, 2018
 
 - - -
 ## see what i saw

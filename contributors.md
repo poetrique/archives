@@ -27,7 +27,7 @@
 
 > #### AliyuN
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; AliyuN](#)  
+[&copy; AliyuN](https://www.instagram.com/Nawar_aali/)  
 
 > #### Mambo
 [=POETRIQUE=](http://instagram.com/poetrique)  
