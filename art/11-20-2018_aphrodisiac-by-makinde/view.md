@@ -1,6 +1,6 @@
 <head>
   <!-- Favicon -->
-  <link rel="shortcut icon" href="../favicon.ico">
+  <link rel="shortcut icon" href="../../favicon.ico">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
   <script>
@@ -21,7 +21,7 @@
 
 - - -
 
-#### [Aphrodisiac by Makinde](./11-20-2018_aphrodisiac-by-makinde/view.md)
+#### [Aphrodisiac by Makinde](./view.md)
 
 <img style="width: 100%; height: auto" src="https://res.cloudinary.com/poetrique/image/upload/v1542700996/poetrique-art/makinde_001.jpg" alt="Makind_001" title="Aphrodisiac by Makinde">  
 

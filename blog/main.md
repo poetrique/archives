@@ -1,6 +1,6 @@
 <head>
   <!-- Favicon -->
-  <link rel="shortcut icon" href="./favicon.ico">
+  <link rel="shortcut icon" href="../favicon.ico">
   <!-- Emojis -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
   <!-- Global site tag (gtag.js) - Google Analytics -->
