@@ -57,6 +57,7 @@ the kingdom of air
 ### Hey Girlfriend {1}
 
 ![pj_3](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_3.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; PeeJay](https://twitter.com/peejay41) :: Nov 2018
 
 - - - 
@@ -89,6 +90,7 @@ the kingdom of air
 ### Hey Girlfriend {2}
 
 ![pj_4](http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1536065174/htmlpoems/paul_joe/pj_4.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; PeeJay](https://twitter.com/peejay41) :: Nov 2018
 
 - - -
@@ -109,7 +111,7 @@ the kingdom of air
 
 ![wonexo_5](http://res.cloudinary.com/poetrique/image/upload/v1536065963/htmlpoems/wonexo/wonexo_5.png)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; AliyuN](https://www.instagram.com/Nawar_aali/) :: Nov 2018
+[&copy; Wonexo](http://twitter.com/wonexo) ::: Nov 2018
 
 - - -
 
