@@ -17,7 +17,7 @@
 
 - - -
 
-## [<span style="text-decoration: underline">Art / Photography</span>](../main.md)
+## [<span style="text-decoration: underline; color: #fff;">Art / Photography</span>](../main.md)
 
 - - -
 
