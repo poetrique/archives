@@ -19,7 +19,7 @@
 
 ## <span style="text-decoration: underline">Art / Photography</span>
 
-> This will feature the most ambitious projects from _African_ artists all over the world!
+> This will feature the most ambitious projects from **African** artists all over the world!
 
 - - -
 
