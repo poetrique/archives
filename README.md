@@ -35,7 +35,7 @@ colours of wonder
 
 you could never love me  
 for I detest reality  
-does that make me a baby?
+does that make me a baby?  
 my simple love for vanity
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
