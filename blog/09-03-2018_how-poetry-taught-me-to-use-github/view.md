@@ -25,6 +25,12 @@
 
 ### [How Poetry Taught Me To Use Github](./view.md)
 
+<h4>
+  Date: <a href="#">September 3 2018</a>
+  <br />
+  Author: <a href="#">Ninté Null</a>
+</h4>
+
 When I started actively pushing content to Github, I did not been pushing Open Source contributions, Components or anything of the like - I pushed poetry. I did this, beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.  
 
 Now, I want to breakdown the process for new coders (and poets - hopefully <i class="em em-smiley"></i>), so that they can become comfortable with working with Github too. I will be breaking down several ways to push content to Github. For the purpose of this article, I will assume that readers are familiar with Terminal usage (GitBash or otherwise).  
