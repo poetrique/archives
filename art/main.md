@@ -26,3 +26,7 @@
 #### [Aphrodisiac by Makinde](./11-20-2018_aphrodisiac-by-makinde/view.md)
 
 [<img style="width: 100%; height: auto" src="https://res.cloudinary.com/poetrique/image/upload/v1542700996/poetrique-art/makinde_003.jpg" alt="Makind_003" title="Aphrodisiac by Makinde">](./11-20-2018_aphrodisiac-by-makinde/view.md)
+
+### [Continue to Collection](./11-20-2018_aphrodisiac-by-makinde/view.md)
+
+- - -
