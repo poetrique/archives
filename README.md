@@ -26,6 +26,23 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+### baby
+
+I am an old mind  
+you are a young star  
+you think in rosy  
+colours of wonder  
+
+you could never love me  
+for I detest reality  
+does that make me a baby?
+my simple love for vanity
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Nov-20-2018
+
+- - -
+
 ### one-eyed
 
 you were the moon  
