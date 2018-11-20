@@ -19,8 +19,6 @@
 
 ## <span style="text-decoration: underline">Art / Photography</span>
 
-> This will feature the most ambitious projects from _African_ artists all over the world!
-
 - - -
 
 #### [Aphrodisiac by Makinde](./11-20-2018_aphrodisiac-by-makinde/view.md)
