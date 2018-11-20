@@ -19,4 +19,6 @@
 
 - - -
 
+## <span style="text-decoration: underline">Blog</span>
+
 ##### Use emojis in blog

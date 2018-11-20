@@ -19,6 +19,8 @@
 
 - - -
 
+## <span style="text-decoration: underline">Contributors</span>
+
 <h5>
   Everyone who has ever contributed to the platform
   <br />
