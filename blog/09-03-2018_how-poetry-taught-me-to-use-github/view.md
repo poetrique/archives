@@ -23,10 +23,10 @@
 
 - - -
 
-### [How Poetry Taught Me To Use Github](./view.md)
+### [<span style="text-decoration: underline; text-decoration-style: dotted">How Poetry Taught Me To Use Github</span>](./view.md)
 
 <h4>
-  Date: <a href="#">September 3 2018</a>
+  Date: <a href="#">September 3, 2018</a>
   <br />
   Author: <a href="#">Ninté Null</a>
 </h4>
