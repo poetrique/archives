@@ -22,3 +22,11 @@
 - - -
 
 #### [Aphrodisiac by Makinde](./11-20-2018_aphrodisiac-by-makinde/view.md)
+
+<img style="width: 100%; height: auto" src="https://res.cloudinary.com/poetrique/image/upload/v1542700996/poetrique-art/makinde_001.jpg" alt="Makind_001" title="Aphrodisiac by Makinde">  
+
+<img style="width: 100%; height: auto" src="https://res.cloudinary.com/poetrique/image/upload/v1542700995/poetrique-art/makinde_002.jpg" alt="Makind_002" title="Aphrodisiac by Makinde">  
+
+<img style="width: 100%; height: auto" src="https://res.cloudinary.com/poetrique/image/upload/v1542700996/poetrique-art/makinde_003.jpg" alt="Makind_003" title="Aphrodisiac by Makinde">  
+
+<img style="width: 100%; height: auto" src="https://res.cloudinary.com/poetrique/image/upload/v1542700995/poetrique-art/makinde_004.jpg" alt="Makind_004" title="Aphrodisiac by Makinde">  
