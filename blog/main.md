@@ -25,7 +25,7 @@
 
 ### [How Poetry Taught Me To Use Github <i class="em em-rocket"></i> <i class="em em-rocket"></i>](./view.md)
 
-When I started actively pushing content to Github, I did not been pushing Open Source contributions, Components or anything of the like - I pushed poetry. I did this, beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.  
+When I started actively pushing content to Github, I did not push Open Source contributions, Components or anything of the like - I pushed poetry. I did this, beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.  
 
 Now, I want to breakdown the process for new coders (and poets - hopefully <i class="em em-smiley"></i>), so that they can become comfortable with working with Github too.
 
