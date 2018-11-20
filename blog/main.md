@@ -21,4 +21,14 @@
 
 ## <span style="text-decoration: underline">Blog</span>
 
-##### Use emojis in blog
+- - -
+
+### [How Poetry Taught Me To Use Github <i class="em em-rocket"></i> <i class="em em-rocket"></i>](./view.md)
+
+When I started actively pushing content to Github, I did not been pushing Open Source contributions, Components or anything of the like - I pushed poetry. I did this, beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.  
+
+Now, I want to breakdown the process for new coders (and poets - hopefully <i class="em em-smiley"></i>), so that they can become comfortable with working with Github too.
+
+#### [Read More...](./09-03-2018_how-poetry-taught-me-to-use-github/view.md)
+
+- - -
