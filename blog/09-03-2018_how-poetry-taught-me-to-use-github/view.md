@@ -1,6 +1,8 @@
 <head>
   <!-- Favicon -->
   <link rel="shortcut icon" href="../../favicon.ico">
+  <!-- Emojis -->
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
   <script>
@@ -17,15 +19,15 @@
 
 - - -
 
-## [<span style="text-decoration: underline; color: #fff;">Art / Photography</span>](../main.md)
+## [<span style="text-decoration: underline; color: #fff;">Blog</span>](../main.md)
 
 - - -
 
 ### [How Poetry Taught Me To Use Github](./view.md)
 
-I started actively pushing content to Github recently. I have not been pushing Open Source contributions, Components or anything of the like - I have been pushing poetry. I do this beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.  
+When I started actively pushing content to Github, I did not been pushing Open Source contributions, Components or anything of the like - I pushed poetry. I did this, beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.  
 
-Now, I want to breakdown the process for new coders, so that they can become comfortable with working with Github too. I will be breaking down several ways to push content to Github. For the purpose of this article, I will assume that readers are familiar with Terminal usage (GitBash or otherwise).  
+Now, I want to breakdown the process for new coders (and poets - hopefully <i class="em em-smiley"></i>), so that they can become comfortable with working with Github too. I will be breaking down several ways to push content to Github. For the purpose of this article, I will assume that readers are familiar with Terminal usage (GitBash or otherwise).  
 
 #### >> Pushing to a repository with a README file
 
