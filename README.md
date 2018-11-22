@@ -34,14 +34,14 @@ love and pain
 they both taste the same  
 
 you sang of want  
-need and desire  
+need and desire,   
 made me parched  
-with ytour ancient fire  
+with your ancient fire  
 
-I hunter fate  
+I hunted fate  
 you hunted a mate  
 we both did get  
-each, what we require  
+each, what we required  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; Ninté Null](#) ::: Nov-22-2018
