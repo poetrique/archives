@@ -35,7 +35,7 @@ they both taste the same
 
 you sang of want  
 need and desire,   
-made me parched  
+and made me parched  
 with your ancient fire  
 
 I hunted fate  
