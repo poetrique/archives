@@ -26,6 +26,26 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+### give & take
+
+I seek not fame  
+but to make a name  
+love and pain  
+they both taste the same  
+
+you sang of want  
+need and desire  
+made me parched  
+with ytour ancient fire  
+
+I hunter fate  
+you hunted a mate  
+we both did get  
+each, what we require  
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Nov-22-2018
+
 ### baby
 
 I am an old mind  
