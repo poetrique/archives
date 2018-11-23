@@ -26,6 +26,21 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+### on guard
+
+art is war  
+do you not believe  
+you fight your soul  
+just to birth a dream  
+
+if you want to be good  
+be wicked first  
+the pure dilutes  
+the weak repent  
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Nov-23-2018
+
 ### give & take
 
 I seek not fame  
@@ -36,9 +51,9 @@ they both taste the same
 you sang of want  
 need and desire  
 made me parched  
-with ytour ancient fire  
+with your ancient fire  
 
-I hunter fate  
+I hunted fate  
 you hunted a mate  
 we both did get  
 each, what we require  
