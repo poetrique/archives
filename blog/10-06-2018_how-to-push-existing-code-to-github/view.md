@@ -25,7 +25,13 @@
 
 ### [How To Push Existing Github](./view.md)
 
-This is part **2** of a series I began with [this post](https://idea.allbuy.i.ng/general/2018/09/03/how-poetry-taught-me-to-use-github.html). Here, I will be explaining how to push existing code to a new and empty Github repository.
+<h4>
+  Date: <a href="#">October 7, 2018</a>
+  <br />
+  Author: <a href="#">Ninté Null</a>
+</h4>
+
+This is part **2** of a series I began with [this post](https://poetrique.github.io/blog/09-03-2018_how-poetry-taught-me-to-use-github/view.html). Here, I will be explaining how to push existing code to a new and empty Github repository.
 
 <blockquote>
   "Coding is a beautiful thing. Anyone can learn to code!"
