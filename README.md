@@ -49,14 +49,19 @@ love and pain
 they both taste the same  
 
 you sang of want  
+<<<<<<< HEAD
 need and desire  
 made me parched  
+=======
+need and desire,   
+and made me parched  
+>>>>>>> fe47ef260a27ac7ae608069c16257268f3d264a5
 with your ancient fire  
 
 I hunted fate  
 you hunted a mate  
 we both did get  
-each, what we require  
+each, what we required  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; Ninté Null](#) ::: Nov-22-2018
