@@ -106,7 +106,7 @@ _Official Judge_
 
 More than half of the world’s population lives in cities. This category encompasses everything from gritty street scenes to those once-in-a-lifetime candid shots.
 
-_Official Judge_
+_Official Judge_  
 [**Wesley Yendrys ——— SSENSE**](#)  
 
 #### [**Submissions**](#)
