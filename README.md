@@ -45,7 +45,7 @@ come close. Listen
 
 ### Uno
 
-[mambo_uno](https://res.cloudinary.com/poetrique/image/upload/v1543143536/poetrique-github/poetry/mambo_v1.jpg)  
+![mambo_uno](https://res.cloudinary.com/poetrique/image/upload/v1543143536/poetrique-github/poetry/mambo_v1.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> :: Nov-25-2018
 
