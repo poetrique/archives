@@ -25,7 +25,7 @@
 
 ### [Submit Your Photos To The 2018 **Unsplash Awards**](./view.md)
 
-The Unsplash Awards is a month-long celebration created to recognize the powerful impact Unsplash contributors have made through their generosity and artistry. Every day, thousands of photographers freely gift their work on Unsplash to move creativity forward.
+The Unsplash Awards is a month-long celebration created to recognize the powerful impact Unsplash contributors have made through their generosity and artistry. Every day, thousands of photographers freely gift their work on Unsplash to move creativity forward. Visit unsplash.com
 
 #### [**12 Categories**](#)
 
@@ -50,4 +50,27 @@ _Official Judge_
 From remote work and start-ups to small businesses and individual creators, this category showcases the way business is growing and evolving.
 
 _Official Judge_
-**Amy Feitelberg — Square**
+**Amy Feitelberg ——— Square**
+
+**4. Experimental**
+
+Boundary-pushing photography that captures the world in new, creative ways.
+
+_Official Judge_
+**Rogie King ——— Dribbble**
+
+**5. Food & Wellness**
+
+Photography that represents and encourages a healthy mind and soul. To empower and motivate others towards active lifestyle choices, healing, holistic choices, healthy eating and practices such as meditation and yoga.
+
+_Official Judge_
+**Sai De Silva — Scout the City**
+
+**6. Interiors & Architecture**
+
+Photography of human-made spaces both inside and out, this category encompasses everything from sweeping perspectives to slick workspace shots.
+
+_Official Judge_
+**Tobias van Schneider — Semplice**
+
+
