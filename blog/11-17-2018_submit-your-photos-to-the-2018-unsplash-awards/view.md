@@ -119,4 +119,8 @@ _Official Judge_
 | Experimental | [Link](https://unsplash.com/collabs/unsplash-awards/34) |
 | Food & Wellness | [Link](https://unsplash.com/collabs/unsplash-awards/35)
 | Interiors & Architecture | [Link](https://unsplash.com/collabs/unsplash-awards/36) |
-| People & Relationships | [Link](https://unsplash.com/collabs/unsplash-awards/37)
+| People & Relationships | [Link](https://unsplash.com/collabs/unsplash-awards/37) |
+| Photojournalism | [Link](https://unsplash.com/collabs/unsplash-awards/38) |
+| Product Photography | [Link](https://unsplash.com/collabs/unsplash-awards/39) |
+| Shapes & Textures | [Link](https://unsplash.com/collabs/unsplash-awards/40) |
+| Street Photography | [Link](https://unsplash.com/collabs/unsplash-awards/41) |
