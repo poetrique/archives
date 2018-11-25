@@ -47,4 +47,7 @@ _Official Judge_
 
 **3. Entrepreneur**
 
+From remote work and start-ups to small businesses and individual creators, this category showcases the way business is growing and evolving.
 
+_Official Judge_
+**Amy Feitelberg — Square**
