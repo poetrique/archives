@@ -20,3 +20,4 @@
 ## <span style="text-decoration: underline">Music</span>
 
 * [**DOWNLOAD >>** Ninté Null - DIRTY BYTES (EP)](./ninte-null_dirty-bytes/view.md)  
+* [**DOWNLOAD >>** Cozy Folzy - COZY TAPE (LEAKED))](./ninte-null_dirty-bytes/view.md)  
