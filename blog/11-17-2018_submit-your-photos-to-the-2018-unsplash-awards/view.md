@@ -36,53 +36,53 @@ We’ve created 12 photography categories to feature the work of Unsplash contri
 Photography that captures the underrepresented in stock photography such as different body types, disability awareness, ethnicity, feminism and the LGBTQ+ community.
 
 _Official Judge_  
-**Esteban Arturo ——— Global Citizen**  
+[**Esteban Arturo ——— Global Citizen**](#)  
 
 **2. Earth**
 
 From stunning land and seascapes, wildlife captures and the tiny details of nature to key issues such as climate change and pollution, ‘Earth’ is a category to celebrate our planet.
 
 _Official Judge_  
-**Jakob Owens ——— BuffNerds Media**
+[**Jakob Owens ——— BuffNerds Media**](#)
 
 **3. Entrepreneur**
 
 From remote work and start-ups to small businesses and individual creators, this category showcases the way business is growing and evolving.
 
-_Official Judge_
-**Amy Feitelberg ——— Square**
+_Official Judge_  
+[**Amy Feitelberg ——— Square**](#)  
 
 **4. Experimental**
 
 Boundary-pushing photography that captures the world in new, creative ways.
 
-_Official Judge_
-**Rogie King ——— Dribbble**
+_Official Judge_  
+[**Rogie King ——— Dribbble**](#)  
 
 **5. Food & Wellness**
 
 Photography that represents and encourages a healthy mind and soul. To empower and motivate others towards active lifestyle choices, healing, holistic choices, healthy eating and practices such as meditation and yoga.
 
-_Official Judge_
-**Sai De Silva ——— Scout the City**
+_Official Judge_  
+[**Sai De Silva ——— Scout the City**](#)
 
 **6. Interiors & Architecture**
 
 Photography of human-made spaces both inside and out, this category encompasses everything from sweeping perspectives to slick workspace shots.
 
-_Official Judge_
-**Tobias van Schneider ——— Semplice**
+_Official Judge_  
+[**Tobias van Schneider ——— Semplice**](#)  
 
 **7. People & Relationships**
 
 People and relationships, captured. We welcome submissions of subjects of all ages and ethnicity, from candid portraits, to styled wedding shoots.
 
-_Official Judge_
-**David Lee ——— Squarespace**
+_Official Judge_  
+[**David Lee ——— Squarespace**](#)  
 
 **8. Photojournalism**
 
 Capturing the truth behind global stories has never been more critical. This category celebrates those who chose to go out and bravely document important current events.
 
-_Official Judge_
-**Siobhan O'Connor ——— Medium**
+_Official Judge_  
+[**Siobhan O'Connor ——— Medium**](#)  
