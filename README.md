@@ -28,6 +28,29 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+###  half closed
+
+babylon is gone  
+the glorious have risen  
+we move when we dream  
+we rise with the angels  
+
+have you heard  
+the whisper, of a  
+tale half closed  
+come close. Listen
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Nov-235-2018
+
+### Uno
+
+[mambo_uno](https://res.cloudinary.com/poetrique/image/upload/v1543143536/poetrique-github/poetry/mambo_v1.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> :: Nov-25-2018
+
+- - -
+
 ### on guard
 
 art is war  
@@ -51,13 +74,8 @@ love and pain
 they both taste the same  
 
 you sang of want  
-<<<<<<< HEAD
 need and desire  
 made me parched  
-=======
-need and desire,   
-and made me parched  
->>>>>>> fe47ef260a27ac7ae608069c16257268f3d264a5
 with your ancient fire  
 
 I hunted fate  
