@@ -86,3 +86,12 @@ Capturing the truth behind global stories has never been more critical. This cat
 
 _Official Judge_  
 [**Siobhan O'Connor ——— Medium**](#)  
+
+
+**9. Product Photography**
+
+Photography of products in any style, from editorial to commercial.
+
+_Official Judge_  
+[**Kate Allchin ——— Pinterest**](#)  
+
