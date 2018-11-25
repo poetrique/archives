@@ -109,6 +109,15 @@ More than half of the world’s population lives in cities. This category encomp
 _Official Judge_  
 [**Wesley Yendrys ——— SSENSE**](#)  
 
+**12. Unsplash Community**
+
+A special category curated by us to recognize excellence in our community.
+
+_Official Judge_  
+[**Unsplash**](#)
+
+- - -
+
 #### [**Submissions**](#)
 
 | Catergories | <i class="em em-link"></i> |
