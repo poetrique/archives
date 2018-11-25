@@ -73,4 +73,16 @@ Photography of human-made spaces both inside and out, this category encompasses 
 _Official Judge_
 **Tobias van Schneider ——— Semplice**
 
+**7. People & Relationships**
 
+People and relationships, captured. We welcome submissions of subjects of all ages and ethnicity, from candid portraits, to styled wedding shoots.
+
+_Official Judge_
+**David Lee ——— Squarespace**
+
+**8. Photojournalism**
+
+Capturing the truth behind global stories has never been more critical. This category celebrates those who chose to go out and bravely document important current events.
+
+_Official Judge_
+**Siobhan O'Connor ——— Medium**
