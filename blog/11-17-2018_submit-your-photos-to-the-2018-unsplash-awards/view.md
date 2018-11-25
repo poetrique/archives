@@ -95,3 +95,24 @@ Photography of products in any style, from editorial to commercial.
 _Official Judge_  
 [**Kate Allchin ——— Pinterest**](#)  
 
+**10. Shapes & Textures**
+
+From macro photography to drone shots, natural structures to modern architecture, this category celebrates the beautiful patterns and details of the world around us.
+
+_Official Judge_  
+[**Emanuel Sá ——— Sketch**](#)
+
+**11. Street Photography**
+
+More than half of the world’s population lives in cities. This category encompasses everything from gritty street scenes to those once-in-a-lifetime candid shots.
+
+_Official Judge_
+[**Wesley Yendrys ——— SSENSE**](#)  
+
+#### [**Submissions**](#)
+
+| Catergories | <i class="em em-link"></i> |
+|---|---|
+| Diversity | [Link](https://unsplash.com/collabs/unsplash-awards/31) |
+| Earth | [Link](https://unsplash.com/collabs/unsplash-awards/32)
+
