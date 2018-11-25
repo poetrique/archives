@@ -38,7 +38,7 @@ This is part **2** of a series I began with [this post](https://poetrique.github
 <blockquote>
   "Coding is a beautiful thing. Anyone can learn to code!"
   <br />
-  ~ [@Usheninte](https://github.com/Usheninte)
+  ~ @Usheninte
 </blockquote>
 
 #### [Read More...](./10-06-2018_how-to-push-existing-code-to-github/view.md)

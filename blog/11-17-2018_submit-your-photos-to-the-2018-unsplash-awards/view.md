@@ -36,7 +36,7 @@ We’ve created 12 photography categories to feature the work of Unsplash contri
 Photography that captures the underrepresented in stock photography such as different body types, disability awareness, ethnicity, feminism and the LGBTQ+ community.
 
 _Official Judge_  
-**Esteban Arturo ——— Global Citizen**
+**Esteban Arturo ——— Global Citizen**  
 
 [Submit a photo](https://unsplash.com/collabs/unsplash-awards/31)
 
