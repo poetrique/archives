@@ -31,12 +31,20 @@ The Unsplash Awards is a month-long celebration created to recognize the powerfu
 
 We’ve created 12 photography categories to feature the work of Unsplash contributors throughout November and December. For each category, we’ve invited a guest judge to help select the featured photos.
 
-[1. Diversity](#)
+**1. Diversity**
 
 Photography that captures the underrepresented in stock photography such as different body types, disability awareness, ethnicity, feminism and the LGBTQ+ community.
 
 _Official Judge_  
 **Esteban Arturo ——— Global Citizen**  
 
-[Submit a photo](https://unsplash.com/collabs/unsplash-awards/31)
+**2. Earth**
+
+From stunning land and seascapes, wildlife captures and the tiny details of nature to key issues such as climate change and pollution, ‘Earth’ is a category to celebrate our planet.
+
+_Official Judge_  
+**Jakob Owens ——— BuffNerds Media**
+
+**3. Entrepreneur**
+
 
