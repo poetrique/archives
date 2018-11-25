@@ -41,7 +41,7 @@ tale half closed
 come close. Listen
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
-[&copy; Ninté Null](#) ::: Nov-235-2018
+[&copy; Ninté Null](#) ::: Nov-25-2018
 
 ### Uno
 
