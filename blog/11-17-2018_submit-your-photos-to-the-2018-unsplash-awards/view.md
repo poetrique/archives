@@ -25,6 +25,12 @@
 
 ### [Submit Your Photos To The 2018 **Unsplash Awards**](./view.md)
 
+<h4>
+  Date: <a href="#">October 7, 2018</a>
+  <br />
+  Author: <a href="#">Ninté Null</a>
+</h4>
+
 The Unsplash Awards is a month-long celebration created to recognize the powerful impact Unsplash contributors have made through their generosity and artistry. Every day, thousands of photographers freely gift their work on Unsplash to move creativity forward. Visit unsplash.com
 
 #### [**12 Categories**](#)
