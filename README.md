@@ -7,6 +7,8 @@
   <meta name="author" content="Usheninte Dangana">   
   <!-- Description -->
   <meta name="description" content="Open Source Creativity | Tech Meets Art. Poetrique is a creative arts brand, that focuses on creating unique user experiences and interactions for the web. We work with world-class technology to produce amazing results.">    
+  <!-- Author Enail -->
+  <meta name="email" content="poetrique@gmail.com" >
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-1"></script>
   <script>

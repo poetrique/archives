@@ -115,4 +115,8 @@ _Official Judge_
 |---|---|
 | Diversity | [Link](https://unsplash.com/collabs/unsplash-awards/31) |
 | Earth | [Link](https://unsplash.com/collabs/unsplash-awards/32)
-
+| Entrepreneur | [Link](https://unsplash.com/collabs/unsplash-awards/33) |
+| Experimental | [Link](https://unsplash.com/collabs/unsplash-awards/34) |
+| Food & Wellness | [Link](https://unsplash.com/collabs/unsplash-awards/35)
+| Interiors & Architecture | [Link](https://unsplash.com/collabs/unsplash-awards/36) |
+| People & Relationships | [Link](https://unsplash.com/collabs/unsplash-awards/37)
