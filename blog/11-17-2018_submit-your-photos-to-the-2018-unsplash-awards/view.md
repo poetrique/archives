@@ -26,7 +26,7 @@
 ### [Submit Your Photos To The 2018 **Unsplash Awards**](./view.md)
 
 <h4>
-  Date: <a href="#">October 7, 2018</a>
+  Date: <a href="#">November 25, 2018</a>
   <br />
   Author: <a href="#">Ninté Null</a>
 </h4>
