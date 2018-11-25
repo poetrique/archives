@@ -64,13 +64,13 @@ _Official Judge_
 Photography that represents and encourages a healthy mind and soul. To empower and motivate others towards active lifestyle choices, healing, holistic choices, healthy eating and practices such as meditation and yoga.
 
 _Official Judge_
-**Sai De Silva — Scout the City**
+**Sai De Silva ——— Scout the City**
 
 **6. Interiors & Architecture**
 
 Photography of human-made spaces both inside and out, this category encompasses everything from sweeping perspectives to slick workspace shots.
 
 _Official Judge_
-**Tobias van Schneider — Semplice**
+**Tobias van Schneider ——— Semplice**
 
 
