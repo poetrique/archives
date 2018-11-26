@@ -126,7 +126,7 @@ _Official Judge_
 
 #### [**Submissions**](#)
 
-| Catergories | <i class="em em-link"></i> |
+| Categories | <i class="em em-link"></i> |
 |---|---|
 | Diversity | [Link](https://unsplash.com/collabs/unsplash-awards/31) |
 | Earth | [Link](https://unsplash.com/collabs/unsplash-awards/32)
