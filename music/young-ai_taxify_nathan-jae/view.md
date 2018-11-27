@@ -25,7 +25,7 @@
 
 ## Ninté Null - DIRTY BYTES (EP)
 
-![Young AI - TAXIFY Ft. Nathan Jae](./young-ai_taxify_nathan-jae.png)  
+![Young AI - TAXIFY Ft. Nathan Jae](./young-ai_taxify_nathan-jae.jpg)  
 
 #### <a href="./young-ai_taxify_nathan-jae.mp3" download="young-ai_taxify_nathan-jae">DOWNLOAD >> Young AI - TAXIFY Ft. Nathan Jae</a>  
 
