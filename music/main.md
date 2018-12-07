@@ -19,6 +19,6 @@
 
 ## <span style="text-decoration: underline">Music</span>
 
-* [**DOWNLOAD >>** Ninté Null - DIRTY BYTES (EP)](./ninte-null_dirty-bytes/view.md)  
+* [**STREAM >>** Nullthefirst - GEMINI ELECTRO](./nullthefirst_gemini-electro/view.md)  
 * [**DOWNLOAD >>** Young AI - TAXIFY Ft. Nathan Jae](./young-ai_taxify_nathan-jae/view.md)  
 <!-- * [**DOWNLOAD >>** Cozy Folzy - COZY TAPE](./the-cozy-tape/view.md)   -->

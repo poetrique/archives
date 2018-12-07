@@ -23,11 +23,9 @@
 
 - - -
 
-## Cozy Folzy - COZY TAPE  
-
-#### <a href="./cozy-folzy_better-things.mp3" download="cozy-folzy_better-things">DOWNLOAD >> Cozy Folzy - Better Things</a>  
-#### <a href="./cozy-folzy_mafioso.mp3" download="cozy-folzy_mafioso">DOWNLOAD >> Cozy Folzy - Mafioso</a>  
-#### <a href="./cozy-folzy_triple-threat.mp3" download="cozy-folzy_triple-threat">DOWNLOAD >> Cozy Folzy - Triple Threat</a>  
+## Nullthefirst - GEMINI ELECTRO
+ 
+This is not an EP or anything like that. Enjoy this short playlist of my two favorite songs from 2018. This is Gemini Electro (**Volume 1**).
 
 - - -
 
