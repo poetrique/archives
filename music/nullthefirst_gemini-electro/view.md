@@ -23,9 +23,9 @@
 
 - - -
 
-## Nullthefirst - GEMINI ELECTRO
+## [Nullthefirst - GEMINI ELECTRO](#)
  
-This is not an EP or anything like that. Enjoy this short playlist of my two favorite songs from 2018. This is Gemini Electro (**Volume 1**).
+This is not an EP or anything like that. Enjoy this short playlist of some of my songs from 2018. This is Gemini Electro (**Volume 1**).
 
 - - -
 
