@@ -24,6 +24,8 @@
 - - -
 
 ## [Nullthefirst - GEMINI ELECTRO](#)
+
+![Nullthefirst_Gemini-Electro](https://res.cloudinary.com/poetrique/image/upload/c_scale,w_400/v1544176302/nullthefirst/Nullthefirst_Gemini-Electro.png)  
  
 This is not an EP or anything like that. Enjoy this short playlist of some of my songs from 2018. This is Gemini Electro (**Volume 1**).
 
