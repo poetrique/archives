@@ -31,7 +31,9 @@ A fusion of AfroGrime and raw Hip-Hop. Inspired by **@jhus**, **@burnaboy**, **@
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/659141667&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
+### [**Listen on Deezer**](http://www.deezer.com/playlist/5188510864)
 
+<iframe src="https://audiomack.com/embed/album/nullthefirst/gemini-electro?background=1" scrolling="no" width="100%" height="400" scrollbars="no" frameborder="0"></iframe>
 
 - - -
 
