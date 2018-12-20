@@ -28,6 +28,27 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+### vino & 'bacco
+
+my way is mine  
+i paid my time  
+greatness for me  
+for you, for us, for we  
+i do not lie  
+... really
+
+i caress my demons  
+they are more than tame  
+now, they bow  
+i like the red, and the brown  
+maybe cause  
+i am a child of the earth  
+and i bleed up,  
+never down  
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté](#) ::: Dec-20-2018
+
 ###  half closed
 
 babylon is gone  
