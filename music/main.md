@@ -21,4 +21,5 @@
 
 * [**STREAM >>** Nullthefirst - GEMINI ELECTRO](./nullthefirst_gemini-electro/view.md)  
 * [**DOWNLOAD >>** Young AI - TAXIFY Ft. Nathan Jae](./young-ai_taxify_nathan-jae/view.md)  
+* [**DOWNLOAD >>** Funkid Peter - PLAYLIST](./funkid-peter_music/view.md)  
 <!-- * [**DOWNLOAD >>** Cozy Folzy - COZY TAPE](./the-cozy-tape/view.md)   -->
