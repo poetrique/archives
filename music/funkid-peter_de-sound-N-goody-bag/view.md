@@ -23,7 +23,7 @@
 
 - - -
 
-## Young AI - TAXIFY Ft. Nathan Jae
+## Funkid Peter
 
 Listen to amazing music from upcoming AfroBeat music sensation "**Funkid Peter**". Download and enjoy!
 
