@@ -24,6 +24,8 @@
 
 ## [Blast-Off (The EP)](#)	
 
+<img src="./Blast-Off_Remastered.jpg" width="600px" height="auto" />   
+
 Jason Odianosen Folarin Ibadin, popularly known as Cozy Folzy is a Rap Artist from / born in Lagos, Nigeria.  
 
 Folzy started writing his own rhymes and rapping since he was 7 years old. He grew up listening to 50 Cent, Jay Z, Kanye West, Lil Wayne, Drake, Naeto C, MI Abaga and A$AP Rocky.  
