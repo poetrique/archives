@@ -62,14 +62,14 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 
 ### DOWNLOAD SONGS BELOW
 
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/01_Better-Things.mp3" download="Cozy-Folzy_01_Better-Things">01_Better-Things</a>  
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/02_Devil-May-Care.mp3" download="Cozy-Folzy_02_Devil-May-Care">02_Devil-May-Care</a>  
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/03_Pandemonium.mp3" download="Cozy-Folzy_03_Pandemonium">03_Pandemonium</a>  
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/04_Mafioso.mp3" download="Cozy-Folzy_04_Mafioso">04_Mafioso</a>  
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/05_Triple-Threat.mp3" download="Cozy-Folzy_05_Triple-Threat">05_Triple-Threat</a>   
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/06_Straight-Barz.mp3" download="Cozy-Folzy_06_Straight-Barz">06_Straight-Barz</a>  
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/07_Blue-Bandz.mp3" download="Cozy-Folzy_07_Blue-Bandz">07_Blue-Bandz</a>  
-* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/08_Money-Talk.mp3" download="Cozy-Folzy_08_Money-Talk">08_Money-Talk</a> 
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/01_Better-Things.mp3" download="Cozy-Folzy_01_Better-Things">01: Better Things</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/02_Devil-May-Care.mp3" download="Cozy-Folzy_02_Devil-May-Care">02: Devil May Care</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/03_Pandemonium.mp3" download="Cozy-Folzy_03_Pandemonium">03: Pandemonium</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/04_Mafioso.mp3" download="Cozy-Folzy_04_Mafioso">04: Mafioso</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/05_Triple-Threat.mp3" download="Cozy-Folzy_05_Triple-Threat">05: Triple Threat</a>   
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/06_Straight-Barz.mp3" download="Cozy-Folzy_06_Straight-Barz">06: Straight Barz</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/07_Blue-Bandz.mp3" download="Cozy-Folzy_07_Blue-Bandz">07: Blue Bandz</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/08_Money-Talk.mp3" download="Cozy-Folzy_08_Money-Talk">08: Money Talk</a> 
 
 - - -
 
