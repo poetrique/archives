@@ -62,10 +62,10 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 
 ### DOWNLOAD SONGS BELOW
 
-* [01_Better-Things](https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/01_Better-Things.mp3)  
-* [02_Devil-May-Care](https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/02_Devil-May-Care.mp3)  
-* [03_Pandemonium](https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/03_Pandemonium.mp3)  
-* [04_Mafioso](https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/04_Mafioso.mp3)  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/01_Better-Things.mp3" download="Cozy-Folzy_01_Better-Things">01_Better-Things</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/02_Devil-May-Care.mp3" download="Cozy-Folzy_02_Devil-May-Care">02_Devil-May-Care</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/03_Pandemonium.mp3" download="Cozy-Folzy_03_Pandemonium">03_Pandemonium</a>  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/04_Mafioso.mp3" download="Cozy-Folzy_04_Mafioso">04_Mafioso</a>  
 * [05_Triple-Threat](#)  
 * [06_Straight-Barz](#)  
 * [07_Blue-Bandz](#)  
