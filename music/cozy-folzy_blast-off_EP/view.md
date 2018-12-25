@@ -24,7 +24,7 @@
 
 ## [Blast-Off (The EP)](#)	
 
-<img src="./Blast-Off_Remastered.jpg" width="600px" height="auto" />   
+<img src="./Blast-Off_Remastered.jpg" width="50%" height="auto" />   
 
 Jason Odianosen Folarin Ibadin, popularly known as Cozy Folzy is a Rap Artist from / born in Lagos, Nigeria.  
 
@@ -58,12 +58,21 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 
 - - -
 
-<img src="./Blast-Off_Remastered.jpg" width="600px" height="auto" /> 
+<img src="./BlastOff_Tracklist.jpg" width="50%" height="auto" /> 
 
+### DOWNLOAD SONGS BELOW
 
+* [01_Better-Things](#)  
+* [02_Devil-May-Care](#)  
+* [03_Pandemonium](#)  
+* [04_Mafioso](#)  
+* [05_Triple-Threat](#)  
+* [06_Straight-Barz](#)  
+* [07_Blue-Bandz](#)  
+* [08_Money-Talk](#) 
 
 - - -
 
 For bookings and inquiries :  
 
-<a href="callto:+2348032900743" alt="+2348032900743"><b>+2348032900743</b></a> | [**cozybookings@jamcitylive.com**](#) | [@cozyfolzy](https://instagram.com/cozyfolzy)  
+<a href="callto:+2348032900743" alt="+2348032900743"><b>+2348032900743</b></a> `|` [**cozybookings@jamcitylive.com**](#) `|` [@cozyfolzy](https://instagram.com/cozyfolzy)  
