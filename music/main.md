@@ -19,7 +19,7 @@
 
 ## <span style="text-decoration: underline">Music</span>
 
-* [**DOWNLOAD >>** Cozy Folzy - BLAST OFF (THE EP)](./cozy-folzy_blast-off_(the-EP)/view.md)  
+* [**DOWNLOAD >>** Cozy Folzy - BLAST OFF (THE EP)](./cozy-folzy_blast-off_EP/view.md)  
 * [**STREAM >>** Nullthefirst - GEMINI ELECTRO](./nullthefirst_gemini-electro/view.md)  
 * [**DOWNLOAD >>** Young AI - TAXIFY Ft. Nathan Jae](./young-ai_taxify_nathan-jae/view.md)  
 * [**DOWNLOAD >>** Funkid Peter - DE SOUND & GOODY BAG ](./funkid-peter_de-sound-N-goody-bag/view.md)  
