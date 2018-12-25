@@ -27,9 +27,9 @@
 
 Listen to amazing music from upcoming AfroBeat music sensation "**Funkid Peter**". Download and enjoy!
 
-#### <a href="./Funkid-Peter-Goody-Bag.mp3" download="Funkid-Peter-Goody-Bag">DOWNLOAD >> Funkid Peter - GOODY BAG</a>  
+#### <a href="" download="Funkid-Peter-Goody-Bag">DOWNLOAD >> Funkid Peter - GOODY BAG</a>  
 
-#### <a href="./Funkid-Peter-ft.-Dj-Dupe-x-Jawn-Tee-De-Sound.mp3" download="Funkid-Peter-ft.-Dj-Dupe-x-Jawn-Tee-De-Sound">DOWNLOAD >> Funkid Peter - DE SOUND
+#### <a href="" download="Funkid-Peter-ft.-Dj-Dupe-x-Jawn-Tee-De-Sound">DOWNLOAD >> Funkid Peter - DE SOUND</a>
 
 - - -
 
