@@ -58,7 +58,7 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 
 - - -
 
-<img src="./BlastOff_Tracklist.jpg" width="50%" height="auto" /> 
+<img src="./BlastOff_Tracklist.jpg" width="100%" height="auto" /> 
 
 ### DOWNLOAD SONGS BELOW
 
