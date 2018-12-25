@@ -66,8 +66,8 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 * <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/02_Devil-May-Care.mp3" download="Cozy-Folzy_02_Devil-May-Care">02_Devil-May-Care</a>  
 * <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/03_Pandemonium.mp3" download="Cozy-Folzy_03_Pandemonium">03_Pandemonium</a>  
 * <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/04_Mafioso.mp3" download="Cozy-Folzy_04_Mafioso">04_Mafioso</a>  
-* [05_Triple-Threat](#)  
-* [06_Straight-Barz](#)  
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/05_Triple-Threat.mp3" download="Cozy-Folzy_05_Triple-Threat">05_Triple-Threat</a>   
+* <a href="https://poetrique.github.io/music-repo/eps_albums_mixtapes/cozy-folzy_blast-off_EP/06_Straight-Barz.mp3" download="Cozy-Folzy_06_Straight-Barz">06_Straight-Barz</a>  
 * [07_Blue-Bandz](#)  
 * [08_Money-Talk](#) 
 
