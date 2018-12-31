@@ -15,11 +15,11 @@
 </head>
 
 <!-- Main Links -->
-#### [Home](../../README.md) | [Blog](../main.md) | [Archives](../../archives.md) | [Music](../../music/main.md) | [Art](../../art/main.md) | [Contributors](../../contributors.md) | [Upload](../../upload.md)
+#### [Home](../../README.md) | [Blog](../index.md) | [Archives](../../archives.md) | [Music](../../music/index.md) | [Art](../../art/index.md) | [Contributors](../../contributors.md) | [Upload](../../upload.md)
 
 - - -
 
-## [<span style="text-decoration: underline; color: #fff;">Blog</span>](../main.md)
+## [<span style="text-decoration: underline; color: #fff;">Blog</span>](../index.md)
 
 - - -
 
@@ -62,4 +62,4 @@ This is just _Part 2_ in a series. Please reach out, if I have made any error, o
 
 - - -
 
-#### [Back to Blog](../main.md)
+#### [Back to Blog](../index.md)

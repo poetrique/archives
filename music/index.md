@@ -13,7 +13,7 @@
 </head>
 
 <!-- Main Links -->
-#### [Home](../README.md) | [Blog](../blog/main.md) | [Archives](../archives.md) | [Music](./main.md) | [Art](../art/main.md) | [Contributors](../contributors.md) | [Upload](../upload.md)
+#### [Home](../README.md) | [Blog](../blog/index.md) | [Archives](../archives.md) | [Music](./index.md) | [Art](../art/index.md) | [Contributors](../contributors.md) | [Upload](../upload.md)
 
 - - -
 
