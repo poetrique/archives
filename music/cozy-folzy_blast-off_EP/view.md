@@ -58,7 +58,7 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 
 - - -
 
-<img src="./BlastOff_Tracklist.jpg" width="50%" height="auto" /> 
+<img src="./BlastOff_Tracklist.jpg" width="100%" height="auto" /> 
 
 ### DOWNLOAD SONGS BELOW
 
@@ -75,4 +75,4 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 
 For bookings and inquiries :  
 
-<a href="callto:+2348032900743" alt="+2348032900743"><b>+2348032900743</b></a> `|` [**cozybookings@jamcitylive.com**](#) `|` [INSTAGRAM: **@cozyfolzy**](https://instagram.com/cozyfolzy)  
+<a href="tel:+2348032900743" alt="+2348032900743"><b>+2348032900743</b></a> `|`<a href="mailto:cozybookings@jamcitylive.com" alt="cozybookings@jamcitylive.com"><b>cozybookings@jamcitylive.com</b></a> `|` [INSTAGRAM: **@cozyfolzy**](https://instagram.com/cozyfolzy)  
