@@ -1,9 +1,3 @@
-# Dos
-
-[mambo_dos](https://res.cloudinary.com/poetrique/image/upload/v1543143534/poetrique-github/poetry/mambo_v2.jpg)
-
-- - -
-
 # Tres
 
 [mambo_tres](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v3.jpg)

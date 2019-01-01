@@ -28,6 +28,14 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+# Dos
+
+[mambo_dos](https://res.cloudinary.com/poetrique/image/upload/v1543143534/poetrique-github/poetry/mambo_v2.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-01-2019  
+
+- - -
+
 ### vino & 'bacco
 
 my way is mine  
