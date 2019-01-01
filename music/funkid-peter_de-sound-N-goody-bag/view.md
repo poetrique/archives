@@ -33,4 +33,4 @@ Listen to amazing music from upcoming AfroBeat music sensation "**Funkid Peter**
 
 - - -
 
-* [Back Home](../README.md)
+* [Back Home](../index.md)

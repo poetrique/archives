@@ -76,3 +76,7 @@ Folzy has more plans for his future. His First mixtape would be released in 2019
 For bookings and inquiries :  
 
 <a href="tel:+2348032900743" alt="+2348032900743"><b>+2348032900743</b></a> `|`<a href="mailto:cozybookings@jamcitylive.com" alt="cozybookings@jamcitylive.com"><b>cozybookings@jamcitylive.com</b></a> `|` [INSTAGRAM: **@cozyfolzy**](https://instagram.com/cozyfolzy)  
+
+- - -
+
+* [Back Home](../index.md)
