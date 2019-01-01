@@ -21,7 +21,7 @@
 </head>
 
 <!-- Main Links -->
-#### [Home](./README.md) | [Blog](./blog/index.md) | [Archives](./archives.md) | [Music](./music/index.md) | [Art](./art/index.md) | [Contributors](./contributors.md) | [Upload](./upload.md)
+#### [Home](./README.md) | [Blog](./blog/index.md) | [Music](./music/index.md) | [Art](./art/index.md) | [Contributors](./contributors.md) | [Upload](./upload.md)
 
 <!-- Poetry -->
 - - -
