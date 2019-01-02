@@ -30,20 +30,47 @@
 
 # New Year, Wake Up!
 
-Some people will never know victory because they already see themselves as victims of circumstances.  
-Met an old friends looking unusual, oboi weytin happen to you then he was like "life happened"  
+Some people will never know victory  
+because they already see themselves  
+as victims of circumstances.  
+
+Met an old friend looking unusual,  
+oboi weytin happen to you  
+then he was like "life happened"  
 drowning in self pity.  
+
 But it's a matter of choice  
-I chose to close my eyes to those that chase no goals.  
-They don't call shots rather the ones that get shot at, I call them the shadow chasing ghost, in a play without rolls, the anything goes.  
-Do you really want to make it in life or make excuses for not making it?  
-For yourself you should be able to fistfight in the cold without gloves, because life doesn't warn you before she hits you.  
-Call it the school of hard knocks, knowledge for self reliance, result I wish you good luck.  
+I chose to close my eyes  
+to those that chase no goals.  
+
+They don't call shots rather  
+the ones that get shot at,  
+I call them the shadow chasing ghost,  
+in a play without roles,  
+there anything goes.  
+
+Do you really want  
+to make it in life  
+or make excuses for not making it?  
+
+For yourself you should be able  
+to fistfight in the cold without gloves,  
+because life doesn't warn you before she hits you.  
+
+Call it the school of hard knocks,  
+knowledge for self reliance,  
+result I wish you good luck.  
+
 If education is the only key   
 Then ignorance is a badluck  
-What good is a key to you staring at a stumbling block?  
+What good is a key to you  
+staring at a stumbling block?  
 
-I think life is the Door and Education is just a polite knock to opportunities.breakthrough or get stocked in the same spot  
+I think life is the Door  
+and Education is just a polite knock  
+to opportunities. 
+
+breakthrough or get stuck in the same spot  
 
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; theorvcle](htt0ps://www.instagram.com/theorvcle/) ::: Jan-02-2019
