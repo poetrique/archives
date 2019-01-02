@@ -34,7 +34,7 @@ A track by Skinny Jiggy the original Gambino, and Ziggy the lowkey hustler.
 
 Download and bless your eardrums!
 
-#### <a href="https://poetrique.github.io/music-repo/singles/xyz/SkinnyJiggy_JIGGYLERI-ft-Ziggy.mp3" download="SkinnyJiggy_JIGGYLERI-ft-Ziggy">DOWNLOAD >> Skinny Jiggy - JIGGYLERI ft. Ziggy</a>
+#### <a href="https://poetrique.github.io/music-repo/singles/xyz/SkinnyJiggy_JIGGYLERI-ft-Ziggy.mp3" download="SkinnyJiggy_JIGGYLERI-ft-Ziggy">DOWNLOAD >> Skinny Jiggy - JIGGYLERI ft. Ziggy [Mp3]</a>
 
 <img src="jiggyleri-art_2.JPG" title="Skinny Jiggy - JIGGYLERI ft. Ziggy" width="50%" />
 
