@@ -19,6 +19,7 @@
 
 ## <span style="text-decoration: underline">Music</span>
 
+* [**DOWNLOAD >>** Skinny Jiggy - JIGGYLERI ft. Ziggy](./skinny-jiggy-ft-ziggy_jiggyleri/view.md)  
 * [**DOWNLOAD >>** Fhemmyvibes - BABA ft. Yung AI, Nyescomike](./fhemmyvibes-ft-yung-ai-x-nyescomike_baba/view.md)  
 * [**DOWNLOAD >>** Cozy Folzy - BLAST OFF (THE EP)](./cozy-folzy_blast-off_EP/view.md)  
 * [**STREAM >>** Nullthefirst - GEMINI ELECTRO](./nullthefirst_gemini-electro/view.md)  
