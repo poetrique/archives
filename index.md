@@ -28,6 +28,14 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+# Tres
+
+![mambo_tres](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v3.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-03-2019  
+
+- - -
+
 # New Year, Wake Up!
 
 Some people will never know victory  
