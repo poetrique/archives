@@ -1,9 +1,3 @@
-# Cinco
-
-![mambo_cinco](https://res.cloudinary.com/poetrique/image/upload/v1543143537/poetrique-github/poetry/mambo_v5.jpg)
-
-- - -
-
 # Seis
 
 ![mambo_seis](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)
