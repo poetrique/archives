@@ -28,9 +28,34 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
+### [Me, Moi - Oui](#)
+
+i am one of three  
+love, trust, and belief  
+are all you need to see  
+my tri-reality  
+
+i have fallen, 
+time and again   
+i am whipped  
+by my own hand  
+it firmly grips  
+an ancient chain
+
+but no more.  
+Look, you will see  
+... that is all  
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Jan-07-2019    
+
+- - -
+
 ### [Siete](#)
 
-![mambo_seite](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)
+![mambo_seite](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-07-2019  
 
 - - -
 
