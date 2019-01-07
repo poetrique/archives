@@ -17,7 +17,7 @@
 
 - - -
 
-## <span style="text-decoration: underline">Art / Photography</span>
+# <span style="text-decoration: underline">Art / Photography</span>
 
 > This will feature the most ambitious projects from **African** artists all over the world!
 
