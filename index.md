@@ -26,18 +26,23 @@
 <!-- Poetry -->
 - - -
 
-## <span style="text-decoration: underline">Poetry</span>
+# <span style="text-decoration: underline">Poetry</span>
 
-# Seis
+### Siete
+
+![mambo_seite](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)
+
+- - -
+
+### Seis
 
 ![mambo_seis](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-07-2019  
 
-
 - - -
 
-# Cinco
+### Cinco
 
 ![mambo_cinco](https://res.cloudinary.com/poetrique/image/upload/v1543143537/poetrique-github/poetry/mambo_v5.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -45,7 +50,7 @@
 
 - - -
 
-# Quatro
+### Quatro
 
 ![mambo_quatro](https://res.cloudinary.com/poetrique/image/upload/v1543143537/poetrique-github/poetry/mambo_v4.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -53,7 +58,7 @@
 
 - - -
 
-# Tres
+### Tres
 
 ![mambo_tres](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v3.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -61,7 +66,7 @@
 
 - - -
 
-# New Year, Wake Up!
+### New Year, Wake Up!
 
 Some people will never know victory  
 because they already see themselves  
@@ -110,7 +115,7 @@ breakthrough or get stuck in the same spot
 
 - - -
 
-# Dos
+### Dos
 
 ![mambo_dos](https://res.cloudinary.com/poetrique/image/upload/v1543143534/poetrique-github/poetry/mambo_v2.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
