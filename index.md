@@ -28,6 +28,15 @@
 
 ## <span style="text-decoration: underline">Poetry</span>
 
+# Seis
+
+![mambo_seis](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-07-2019  
+
+
+- - -
+
 # Cinco
 
 ![mambo_cinco](https://res.cloudinary.com/poetrique/image/upload/v1543143537/poetrique-github/poetry/mambo_v5.jpg)  
