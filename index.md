@@ -28,13 +28,13 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
-### Siete
+### [Siete](#)
 
 ![mambo_seite](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)
 
 - - -
 
-### Seis
+### [Seis](#)
 
 ![mambo_seis](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -42,7 +42,7 @@
 
 - - -
 
-### Cinco
+### [Cinco](#)
 
 ![mambo_cinco](https://res.cloudinary.com/poetrique/image/upload/v1543143537/poetrique-github/poetry/mambo_v5.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -50,7 +50,7 @@
 
 - - -
 
-### Quatro
+### [Quatro](#)
 
 ![mambo_quatro](https://res.cloudinary.com/poetrique/image/upload/v1543143537/poetrique-github/poetry/mambo_v4.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -58,7 +58,7 @@
 
 - - -
 
-### Tres
+### [Tres](#)
 
 ![mambo_tres](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v3.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -66,7 +66,7 @@
 
 - - -
 
-### New Year, Wake Up!
+### [New Year, Wake Up!](#)
 
 Some people will never know victory  
 because they already see themselves  
@@ -115,7 +115,7 @@ breakthrough or get stuck in the same spot
 
 - - -
 
-### Dos
+### [Dos](#)
 
 ![mambo_dos](https://res.cloudinary.com/poetrique/image/upload/v1543143534/poetrique-github/poetry/mambo_v2.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -123,7 +123,7 @@ breakthrough or get stuck in the same spot
 
 - - -
 
-### vino & 'bacco
+### [vino & 'bacco](#)
 
 my way is mine  
 i paid my time  
@@ -144,7 +144,7 @@ never down
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; Ninté](#) ::: Dec-20-2018
 
-###  half closed
+### [half closed](#)
 
 babylon is gone  
 the glorious have risen  
@@ -159,7 +159,7 @@ come close. Listen
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; Ninté Null](#) ::: Nov-25-2018
 
-### Uno
+### [Uno](#)
 
 ![mambo_uno](https://res.cloudinary.com/poetrique/image/upload/v1543143536/poetrique-github/poetry/mambo_v1.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
@@ -167,7 +167,7 @@ come close. Listen
 
 - - -
 
-### on guard
+### [on guard](#)
 
 art is war  
 do you not believe  
