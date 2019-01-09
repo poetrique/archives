@@ -1,9 +1,3 @@
-# Nueve
-
-![mambo_nueve](https://res.cloudinary.com/poetrique/image/upload/v1543143549/poetrique-github/poetry/mambo_v9.jpg)
-
-- - -
-
 # Diez
 
 ![mambo_diez](https://res.cloudinary.com/poetrique/image/upload/v1543143549/poetrique-github/poetry/mambo_v10.jpg)
