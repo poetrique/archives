@@ -28,6 +28,24 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
+### [my new resolve](#)
+
+i will hold my heart  
+in my left hand  
+far away from love    
+i must work now,  
+understand  
+
+i will be the king  
+i have feared to be  
+i care not if i can  
+or should, in verity  
+
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Jan-09-2019   
+
+- - -
+
 ### [Nueve](#)
 
 ![mambo_nueve](https://res.cloudinary.com/poetrique/image/upload/v1543143549/poetrique-github/poetry/mambo_v9.jpg)  
