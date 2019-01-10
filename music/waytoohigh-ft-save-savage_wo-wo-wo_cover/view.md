@@ -22,8 +22,8 @@
 - - -
 - - -
 
-## [WayTooHigh - WO WO WO ft. Save Savage](#)	
+## [WayTooHigh - WO WO WO (Cover) ft. Save Savage](#)	
 
-<img src="./WoWoWo_cover-art.jpg" width="80%" height="auto" />
+<img src="./WoWoWo_track-art.jpg" width="80%" height="auto" />
 
-#### <a href="" download="">Download >> WayTooHigh - WO WO WO ft. Save Savage [Mp3]</a>
+#### <a href="" download="">Download >> WayTooHigh - WO WO WO (Cover) ft. Save Savage [Mp3]</a>
