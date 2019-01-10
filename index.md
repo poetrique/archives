@@ -28,6 +28,14 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
+### Diez
+
+![mambo_diez](https://res.cloudinary.com/poetrique/image/upload/v1543143549/poetrique-github/poetry/mambo_v10.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-10-2019  
+
+- - -
+
 ### [heart song](#)
 
 silence is the sound of power  
