@@ -28,6 +28,28 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
+### [heart song](#)
+
+silence is the sound of power  
+i must contain my  
+youthful misery  
+
+so what, if i have never known love  
+so what, if i am seen as strange  
+why care when i can change the world  
+and write each day, a brand new page
+
+i must listen to my heart sing  
+oh how faint its sound now is  
+
+i must build echo  
+like ashes grown to tall wild flame  
+
+[=POETRIQUE=](https://instagram.com/poetrique)  
+[&copy; Ninté Null](#) ::: Jan-10-2019
+
+- - -
+
 ### [my new resolve](#)
 
 i will hold my heart  
