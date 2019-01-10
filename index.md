@@ -28,7 +28,7 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
-### Diez
+### [Diez](#)
 
 ![mambo_diez](https://res.cloudinary.com/poetrique/image/upload/v1543143549/poetrique-github/poetry/mambo_v10.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
