@@ -28,6 +28,14 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
+### Fieri 1
+
+![mambo_fieri-1](https://res.cloudinary.com/poetrique/image/upload/v1546438374/poetrique-github/poetry/mambo_fire_1.jpg)  
+[=POETRIQUE=](http://instagram.com/poetrique)  
+[&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-14-2019  
+
+- - -
+
 ### [Diez](#)
 
 ![mambo_diez](https://res.cloudinary.com/poetrique/image/upload/v1543143549/poetrique-github/poetry/mambo_v10.jpg)  

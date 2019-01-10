@@ -1,9 +1,3 @@
-### Fieri 1
-
-![mambo_fieri-1](https://res.cloudinary.com/poetrique/image/upload/v1546438374/poetrique-github/poetry/mambo_fire_1.jpg)
-
-- - -
-
 ### Fieri 2
 
 ![mambo_fieri-2](https://res.cloudinary.com/poetrique/image/upload/v1546438377/poetrique-github/poetry/mambo_fire_2.jpg)
