@@ -19,6 +19,7 @@
 
 # <span style="text-decoration: underline">Music</span>
 
+* [**Download >>** Flxx - Lagos Girl ft. Makieba](./flxx-ft-makieba_lagos-girl/view.md)
 * [**Download >>** WayTooHigh - WO WO WO (Cover) ft. Save Savage](./waytoohigh-ft-save-savage_wo-wo-wo_cover/view.md)  
 * [**DOWNLOAD >>** Skinny Jiggy - JIGGYLERI ft. Ziggy](./skinny-jiggy-ft-ziggy_jiggyleri/view.md)  
 * [**DOWNLOAD >>** Fhemmyvibes - BABA ft. Yung AI, Nyescomike](./fhemmyvibes-ft-yung-ai-x-nyescomike_baba/view.md)  
