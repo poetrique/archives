@@ -24,9 +24,9 @@
 
 ## [Flxx - Lagos Girl ft. Makieba](#)
 
-#### <a href="https://poetrique.github.io/music-repo/singles/xyz/Flxx_Lagos-Girl_Feat-Makieba.mp3" download="Flxx_Lagos-Girl_Feat-Makieba">Download >> Flxx - Lagos Girl ft. Makieba [Mp3]</a>
-
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/557652897&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+#### <a href="https://poetrique.github.io/music-repo/singles/xyz/Flxx_Lagos-Girl_Feat-Makieba.mp3" download="Flxx_Lagos-Girl_Feat-Makieba">Download >> Flxx - Lagos Girl ft. Makieba [Mp3]</a>
 
 - - -
 
