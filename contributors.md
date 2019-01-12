@@ -22,7 +22,7 @@
 ## <span style="text-decoration: underline">Contributors</span>
 
 <h5>
-  Everyone who has ever contributed to the platform
+  Every poet who has ever contributed to the platform
   <br />
   <em>in no particular ranking of importance</em>
 </h5>
