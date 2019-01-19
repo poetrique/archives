@@ -19,6 +19,7 @@
 
 # <span style="text-decoration: underline">Music</span>
 
+* [**DOWNLOAD >>** Ziggy - ONILE ft. Folzy](./ziggy-ft-folzy_onile/)
 * [**Download >>** Flxx - Lagos Girl ft. Makieba](./flxx-ft-makieba_lagos-girl/view.md)
 * [**Download >>** WayTooHigh - WO WO WO (Cover) ft. Save Savage](./waytoohigh-ft-save-savage_wo-wo-wo_cover/view.md)  
 * [**DOWNLOAD >>** Skinny Jiggy - JIGGYLERI ft. Ziggy](./skinny-jiggy-ft-ziggy_jiggyleri/view.md)  
