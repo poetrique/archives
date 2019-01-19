@@ -27,6 +27,9 @@
 <img src="./Onile_Ziggy-ft-Folzy.jpg" 
     width="500px" height="auto" />
 
+<a href="https://poetrique.github.io/music-repo/singles/xyz/Onile_Ziggy-ft-Folzy.mp3"
+    download="Onile_Ziggy-ft-Folzy"></a>
+
 - - -
 
 * [Back Home](../index.md)
