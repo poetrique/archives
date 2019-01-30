@@ -27,6 +27,9 @@
 <img src="./olutheboy_la-vida-loca.jpeg" 
      width="500px" height="auto" />
 
+<a href="https://poetrique.github.io/music-repo/singles/Olutheboy_La-Vida-Loca.mp3" 
+    download=""></a>
+
 - - -
 
 * [Back Home](../index.md)
