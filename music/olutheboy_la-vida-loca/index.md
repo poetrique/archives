@@ -27,10 +27,14 @@
 <img src="./olutheboy_la-vida-loca.jpeg" 
      width="500px" height="auto" />
 
-Olu the boy had a decent outing in 2018 with the hit song **“Overload”**, he followed that up with **Real Life**, a trap-hop release. After a great recognition Olu the boy comes through with a new record tagged “la vida loca" 
-The tuneful record was produced by veshbeats.
-He recently revealed that he's got another song coming before his Fest.
-@goonsrepublik
+Olu the boy had a decent outing in 2018 with the hit song **“Overload”**, he followed that up with **Real Life**, a trap-hop release. After a great recognition **_Olu the boy_** comes through with a new record tagged **“la vida loca"**.  
+
+The tuneful record was produced by **veshbeats**.  
+He recently revealed that he's got another song coming before his Fest.  
+
+[@goonsrepublik TWITTER](https://twitter.com/goonsrepublik)  
+[@goonsrepublik INSTAGRAM](https://www.instagram.com/goonsrepublik/)  
+
 Download and Share:
 
 <a href="https://poetrique.github.io/music-repo/singles/Olutheboy_La-Vida-Loca.mp3" 
