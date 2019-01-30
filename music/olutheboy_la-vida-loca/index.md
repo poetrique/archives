@@ -38,7 +38,10 @@ He recently revealed that he's got another song coming before his Fest.
 Download and Share:
 
 <a href="https://poetrique.github.io/music-repo/singles/Olutheboy_La-Vida-Loca.mp3" 
-    download="Olutheboy_La-Vida-Loca">DOWNLOAD >> Olutheboy - La Vida Loca [Mp3]</a>
+    download="Olutheboy_La-Vida-Loca"><b>DOWNLOAD >> Olutheboy - La Vida Loca [Mp3]</b></a>
+
+<!-- Social Media Share SCRIPT -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c4c228b688a2f8a"></script>
 
 - - -
 
