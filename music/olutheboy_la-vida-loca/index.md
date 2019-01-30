@@ -24,6 +24,9 @@
 
 ## [Olutheboy - La Vida Loca](#)	
 
+<img src="./olutheboy_la-vida-loca.jpeg" 
+     width="500px" height="auto" />
+
 - - -
 
 * [Back Home](../index.md)
