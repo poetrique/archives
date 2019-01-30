@@ -28,6 +28,37 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
+<!-- 
+### truth be told
+
+what is a man without his drugs  
+what is a god without sin  
+how does one buy a blessing    
+do you think gods are men  
+to trust your empty promises and lies  
+
+boom, a new world war  
+i am a prophet of peace  
+but the price of pain  
+is a deal, too sweet  
+
+i am the oddest son of apollo  
+he gave me the mind of the sun  
+and then left me on my own  
+like everyone does  
+
+commented out, i fight the shout  
+that builds up in my destiny  
+my ink is electric  
+my fear is me  
+
+\>_ Nullthefirst 
+
+#commentedOut #gitConfessions
+-->
+
+- - -
+
 ### Fieri 1
 
 ![mambo_fieri-1](https://res.cloudinary.com/poetrique/image/upload/v1546438374/poetrique-github/poetry/mambo_fire_1.jpg)  
