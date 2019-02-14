@@ -152,6 +152,7 @@ Look, you will see
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-07-2019  
 
+<!-- 
 - - -
 
 ### [Seis](#)
@@ -159,7 +160,7 @@ Look, you will see
 ![mambo_seis](https://res.cloudinary.com/poetrique/image/upload/v1543143538/poetrique-github/poetry/mambo_v6.jpg)  
 [=POETRIQUE=](http://instagram.com/poetrique)  
 [&copy; mambo](http://instagram.com/poetry_by_mambo) <i class="em em-candy"></i> ::: Jan-07-2019  
-
+-->
 - - -
 
 ### [Cinco](#)
