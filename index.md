@@ -28,34 +28,429 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
-<!-- 
-### truth be told
+### [Silence](#)
 
-what is a man without his drugs  
+i laugh  
+i teach  
+my heart lacks speech  
+
+i move  
+i grow  
+me, pain does reach
+
+you did nothing  
+and that was everything  
+a new sorrow  
+you did teach
+
+\>\> **Null**
+&copy; 02-2019
+
+- - -
+
+### [Sinner boy](#)
+
+you left before you came  
+how funny  
+the pain still tastes the same  
+all I wanted  
+was a soul  
+to soothe the pain  
+
+how childish  
+desire, this ancient game
+
+\>\> **Null**
+&copy; 02-2019
+
+- - -
+
+### [Seen](#)
+
+what is worse  
+than love unreturned  
+what hurts more  
+than sins not forgiven  
+
+a poem unread...  
+a heart simply walking away  
+from you. Without ever  
+caring to say why
+
+\>\> **Null**
+&copy; 03-2019
+
+- - -
+
+### [Mountain](#)
+
+no one knows  
+the mountain of pain  
+I climb each day  
+I smile either way  
+
+so alone 
+an island of stone  
+surrounded by  
+other rocks  
+
+ships never  
+kissing my docks  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Ghana girl](#)
+
+come over when  
+the sun falls, and  
+makes love with the sky  
+so we can do the same  
+by and by  
+
+we do not have to try  
+love is cliche  
+let us just exchange  
+a bit of body heat  
+for a couple ...
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Blacktacus](#)
+
+I am not a player  
+but a pussy slayer  
+I'm a gladiator  
+call me Blacktacus  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Cold bed](#)
+
+dare to have some  
+fun, foreign lover  
+dare to sin in style  
+and make love  
+everywhere but the bed  
+for a while  
+
+you do not sleep  
+with me, you meet  
+my soul  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Electric Blunt](#)
+
+we can not hurt us  
+I shall not kill me  
+except safe, it will save thee  
+my lost family  
+from blunt stupidity  
+
+you do not need a matyr  
+you need to understand  
+that life, is no satire  
+no comedy of reflections  
+if we are to awaken  
+we must rise up  
+and kiss the dust no more  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Oasis](#)
+
+come people  
+listen to the thunder  
+listen to the power  
+the angels scream and cower  
+
+we will hide no longer  
+we knock on heaven's door  
+give us what you owe  
+black blessings, and some mo'
+
+god must blink today  
+for we shall see our way
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [The African](#)
+
+I am first of my name  
+ignorant of shame  
+I do not desire fame  
+so I shall not play the game  
+
+listen, and beware  
+for a lion is born  
+straight from the Nation  
+of Nubian royality and  
+a Noble history  
+
+this revolution  
+will not be marginalised
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [This I know](#)
+
+I am not desired  
+I am not  
+sought out, for  
+reasons of love  
+or even of affection  
+
+those who care,  
+hardly stay for long  
+they want to change me  
+but my soul proves too strong  
+
+no one has ever loved me  
+like a poet needs to be loved  
+like a flower needs to be kissed  
+like a snowy mountain  
+needs to be one with the sky  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Moist & cozy](#)
+
+what type of energy  
+is created when we  
+lock our youthful lips  
+
+what form of motion  
+is birthed when we  
+twist our hungry hips  
+
+a moist and cozy  
+celestial locomotion  
+this I know for sure
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Afrofly](#)
+
+how do I pimp my butterfly  
+how do I kill the caterpillar  
+that is all love does see  
+as though its face, is me  
+
+I guess I am Afrofly  
+beautiful enough to be desired  
+too high, maybe to reach  
+money can not buy love  
+this, my wallet just did teach  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Gold, sweat and milk](#)
+
+come at me   
+come at me   
+throw all your stones   
+you can not stop my progeny    
+
+I did this for the G\*S\*M  
+Gold, sweat, milk  
+I did just to be    
+the Am I Am  
+
+look into my keyhole  
+tell me, do you smell a soul?  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Watermelon sins](#)
+
+red is the colour  
+of my ecstasy  
+dotted with a bit of  
+black fantasy  
+
+will you sin with me?  
+will you dare to see  
+my version of reality  
+
+babe, you know you should  
+my cup tastes sweet  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Sober, LOL](#)
+
+I do not know  
+I do not care to  
+understand why hearts  
+beat as they do  
+
+fuck who you will  
+love who you shall  
+sobriety kill  
+keep thee far from me  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Story story](#)
+
+I have told a lie  
+never have I known  
+the wonders, of a soul  
+wrapped around my heart  
+at night  
+
+I have told a truth  
+what poet could ever be  
+any sort of virgin  
+I have slept with gods  
+... alright
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [He is comming soon](#)
+
+she wanted me pure  
+for my own good  
+fed me soul food  
+taught me not to brood  
+
+but the peace was passing  
+the joy confusing  
+not for lack of effort  
+but for loss of truth
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Loveless](#)
+
+can you miss  
+what it is, you have  
+never had? Can you want  
+to kiss lips, that
+do not want you  
+
+I do not, know  
+why my lot is so  
+I hunger for the moon  
+yet walk upon the sun
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [Prodigal](#)
+
+I have nothing to say  
+I am not ashamed  
+a man, I have become  
+my own way, have I paved  
+
+love should bless  
+whom love deems worthy  
+leave me to my gold and mist  
+leave me to my old smoke's gist  
+I am not ashamed
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - -
+
+### [F*ck It](#) 
+
+live for the liquor  
+and bold dreams  
+love, when love will have you  
+smoke every other time  
+
+my flame is now electric  
+my nicotine, I sip  
+in liquid form  
+youth is young, only ever once  
+
+\>\> **Null**  
+&copy; 02-2019
+
+- - - 
+
+### [truth be told](#)
+
+what is a man  
+without his flaws  
 what is a god without sin  
-how does one buy a blessing    
-do you think gods are men  
-to trust your empty promises and lies  
 
-boom, a new world war  
+how does one  
+buy a blessing  
+do you think gods are men  
+
+boom, a new world comes  
 i am a prophet of peace  
 but the price of pain  
 is a deal, too sweet  
 
-i am the oddest son of apollo  
-he gave me the mind of the sun  
+i am the oddest  
+son of apollo  
+he gave me the  
+mind of the sun  
+
 and then left me on my own  
 like everyone does  
 
 commented out, i fight the shout  
 that builds up in my destiny  
 my ink is electric  
-my fear is me  
+my only fear is me  
 
-\>_ Nullthefirst 
+\>\> **Null**  
+&copy; 02-2019
 
 #commentedOut #gitConfessions
--->
 
 - - -
 
