@@ -28,6 +28,23 @@
 
 # <span style="text-decoration: underline">Poetry</span>
 
+### [Revelation](#)
+
+what is art  
+but soul, in part  
+but rivers flowing  
+and suns born dark  
+
+what is love  
+but feelings warm  
+dark as fate  
+both odd and bright  
+
+\>\> **Amongstus**
+&copy; 05-2019
+
+- - - 
+
 ### [Silence](#)
 
 i laugh  
